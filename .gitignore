@@ -1,0 +1,4 @@
+# Accept those files
+*.java
+# Except these files
+!*.class
